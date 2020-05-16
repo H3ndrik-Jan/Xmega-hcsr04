@@ -1,9 +1,6 @@
 # atxmega256-hcsr04
 Xmega library for hc-sr04 ultrasonic sensor. Uses xmega inputcapture
 
- ## Author:
- Hendrik-Jan
-
 ## Description:
 This code can be used to measure distance from an object
 using an HC-SR04 ultrasonic sensor. It works by sending a
