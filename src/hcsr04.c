@@ -11,6 +11,9 @@
 *	and when the measurement is done, the echo pin will turn high
 *	for a time that can be mapped to a distance in centimeters.
 *
+*	Connect the trigger-pin of the sensor to pin 0 of port D
+*	Connect the echo-pin to pin 2 of port E via a voltage divider,
+*	to break down the 5volts to around 3 volts.
 */
 #define  F_CPU   32000000UL
 
