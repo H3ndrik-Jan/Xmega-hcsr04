@@ -14,6 +14,7 @@
 *	Connect the trigger-pin of the sensor to pin 0 of port D
 *	Connect the echo-pin to pin 2 of port E via a voltage divider,
 *	to break down the 5volts to around 3 volts.
+*
 *		Echo
 *		 ^
 *		 |
