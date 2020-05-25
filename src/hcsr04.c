@@ -15,17 +15,17 @@
 *	Connect the echo-pin to pin 2 of port E via a voltage divider,
 *	to break down the 5volts to around 3 volts.
 *
-*		Echo
-*		 ^
-*		 |
-*		 _
-*		| |
-*		|_| 4.7K
-		 |
+*---------  	Echo
+*	  |	 ^
+*  XMEGA  |	 |
+*	  |	 _
+*	  |	| |
+*	  |	|_| 4.7K
+	  |	 |
 *	E2|------|
-*		 |
-*		 _
-*		| |
+*	  |	 |
+*	  |	 _
+*_________|	| |
 *		|_| 6.8K
 *		 |		
 *		 _
