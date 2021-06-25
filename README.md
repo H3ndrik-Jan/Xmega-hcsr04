@@ -1,4 +1,4 @@
-# atxmega256-hcsr04
+# Xmega-hcsr04
 Xmega library for hc-sr04 ultrasonic sensor. Uses xmega inputcapture
 
 ## Description:
